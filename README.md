@@ -122,7 +122,14 @@ TextSeg can be directly applied in object detection with a simple mask2box parad
 </div>
 
 <div align="center">
-  <img src="images/qualitative_results/res.jpg" width=80%>
+  <img src="images/qualitative_results/res_1.png" width=80%>
+  <div style="display: inline-block; color: #999; padding: 2px;">
+      Performance on RRSIS-D benchmark.
+  </div>
+</div>
+
+<div align="center">
+  <img src="images/qualitative_results/res_2.png" width=80%>
   <div style="display: inline-block; color: #999; padding: 2px;">
       Performance on RRSIS-D benchmark.
   </div>
