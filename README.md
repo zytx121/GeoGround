@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Text4Seg: Reimagining Image Segmentation as Text Generation</h1>
+<h1>GeoGround: A Unified Large Vision-Language Model for Remote Sensing Visual Grounding</h1>
 
 <div>
     <a href='https://zytx121.github.io/' target='_blank'>Yue Zhou</a><sup>1</sup>&emsp;   
