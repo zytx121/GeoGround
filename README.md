@@ -1,5 +1,5 @@
 <div align="center">
-<h1>GeoGround: A Unified Large Vision-Language Model for Remote Sensing Visual Grounding</h1>
+<h1>GeoGround<img src="images/geoground/logo.png" height="40">: A Unified Large Vision-Language Model for Remote Sensing Visual Grounding</h1>
 
 <div>
     <a href='https://zytx121.github.io/' target='_blank'>Yue Zhou</a><sup>1</sup>&emsp;   
@@ -18,6 +18,7 @@
     <sup>5</sup>SenseTime Research&emsp;
 </div>
 
+[![Demo](https://img.shields.io/badge/Online-Demo-red)]()
 [![Website](https://img.shields.io/badge/Project-Website-87CEEB)]()
 [![Paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](http://arxiv.org/abs/)
 
@@ -32,11 +33,11 @@
 
 ## 📢 Latest Updates
 
-- 🌟 We will release the GeoGround code and datasets as soon as possible. 🌟
+- 🌟 We will release the Text4Seg demo, code and datasets as soon as possible. 🌟
 
 ---
 
-## Abstract
+## <img src="images/geoground/logo.png" height="40"> Abstract
 
 *Remote sensing (RS) visual grounding aims to use natural language expression to locate specific objects (in the form of the bounding box or segmentation mask) in RS images, enhancing human interaction with intelligent RS interpretation systems. Early research in this area was primarily based on horizontal bounding boxes (HBBs), but as more diverse RS datasets have become available, tasks involving oriented bounding boxes (OBBs) and segmentation masks have emerged. In practical applications, different targets require different grounding types: HBB can localize an object's position, OBB provides its orientation, and mask depicts its shape. However, existing specialized methods are typically tailored to a single type of RS visual grounding task and are hard to generalize across tasks. In contrast, large vision-language models (VLMs) exhibit powerful multi-task learning capabilities but struggle to handle dense prediction tasks like segmentation. This paper proposes GeoGround, a novel framework that unifies support for HBB, OBB, and mask RS visual grounding tasks, allowing flexible output selection. Rather than customizing the architecture of VLM, our work aims to elegantly support pixel-level visual grounding output through the Text-Mask technique. We define prompt-assisted and geometry-guided learning to enhance consistency across different signals. To support model training, we present refGeo, a large-scale RS visual instruction-following dataset containing 161k image-text pairs. Experimental results show that GeoGround demonstrates strong performance across four RS visual grounding tasks, matching or surpassing the performance of specialized methods on multiple benchmarks.*
 
