@@ -7,7 +7,7 @@
     <a href='https://xiangli.ac.cn/' target='_blank'>Xiang Li</a><sup>2</sup>&emsp;
     <a href='https://keyiping.wixsite.com/index' target='_blank'>Yiping Ke</a><sup>3</sup>&emsp;
     <a href='https://ee.sjtu.edu.cn/FacultyDetail.aspx?id=53&infoid=66' target='_blank'>Jiang Xue</a><sup>4</sup>&emsp;
-    <a href='https://scholar.google.com.hk/citations?user=PnNAAasAAAAJ&hl=en' target='_blank'>Litong Feng</a><sup>5</sup>&emsp;
+    <a href='https://scholar.google.com.hk/citations?user=PnNAAasAAAAJ&hl=en' target='_blank'>Litong Feng</a><sup>5*</sup>&emsp;
     <a href='https://www.statfe.com/' target='_blank'>Wayne Zhang</a><sup>5</sup>&emsp;
 </div>
 <div>
@@ -18,7 +18,6 @@
     <sup>5</sup>SenseTime Research&emsp;
 </div>
 
-[![Demo](https://img.shields.io/badge/Online-Demo-red)]()
 [![Website](https://img.shields.io/badge/Project-Website-87CEEB)]()
 [![Paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](http://arxiv.org/abs/)
 
