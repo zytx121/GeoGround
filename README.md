@@ -20,7 +20,7 @@
 
 [![Demo](https://img.shields.io/badge/Online-Demo-red)]()
 [![Website](https://img.shields.io/badge/Project-Website-87CEEB)]()
-[![Paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](http://arxiv.org/abs/)
+[![Paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](http://arxiv.org/abs/2411.11904)
 
 
 </div>
@@ -159,14 +159,14 @@ Our approach enhances object-level understanding without compromising the holist
 
 ## 📜 Citation
 ```bibtex
-@misc{lan2024text4seg,
-      title={GeoGround: A Unified Large Vision-Language Model for Remote Sensing Visual Grounding}, 
+@misc{zhou2024geoground,
+      title={GeoGround: A Unified Large Vision-Language Model. for Remote Sensing Visual Grounding}, 
       author={Yue Zhou and Mengcheng Lan and Xiang Li and Yiping Ke and Xue Jiang and Litong Feng and Wayne Zhang},
       year={2024},
-      eprint={},
+      eprint={2411.11904},
       archivePrefix={arXiv},
       primaryClass={cs.CV},
-      url={https://arxiv.org/abs/}, 
+      url={https://arxiv.org/abs/2411.11904}, 
 }
 ```
 
