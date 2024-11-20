@@ -33,7 +33,7 @@
 
 ## 📢 Latest Updates
 
-- 🌟 We will release the Text4Seg demo, code and datasets as soon as possible. 🌟
+- 🌟 We will release the GeoGround demo, code and datasets as soon as possible. 🌟
 
 ---
 
