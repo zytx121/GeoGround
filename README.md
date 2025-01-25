@@ -162,7 +162,7 @@ Our approach enhances object-level understanding without compromising the holist
 ## 📜 Citation
 ```bibtex
 @misc{zhou2024geoground,
-      title={GeoGround: A Unified Large Vision-Language Model. for Remote Sensing Visual Grounding}, 
+      title={GeoGround: A Unified Large Vision-Language Model for Remote Sensing Visual Grounding}, 
       author={Yue Zhou and Mengcheng Lan and Xiang Li and Yiping Ke and Xue Jiang and Litong Feng and Wayne Zhang},
       year={2024},
       eprint={2411.11904},
