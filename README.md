@@ -21,6 +21,7 @@
 [![Demo](https://img.shields.io/badge/Online-Demo-red)]()
 [![Website](https://img.shields.io/badge/Project-Website-87CEEB)]()
 [![Paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](http://arxiv.org/abs/2411.11904)
+[![Dataset](https://img.shields.io/badge/HuggingFace-Dataset-yellow)](https://huggingface.co/datasets/erenzhou/refGeo)
 
 
 </div>
@@ -33,8 +34,9 @@
 
 ## 📢 Latest Updates
 
-- 🌟 We will release the GeoGround demo, code and datasets as soon as possible. 🌟
 
+- [] We will release the GeoGround weights, and code as soon as possible.
+- [x] **[2025.01.25]** Release the [refGeo](https://huggingface.co/datasets/erenzhou/refGeo) dataset.
 ---
 
 ## Abstract
