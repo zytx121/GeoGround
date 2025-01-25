@@ -35,7 +35,7 @@
 ## 📢 Latest Updates
 
 
-- [] We will release the GeoGround weights, and code as soon as possible.
+- [ ] We will release the GeoGround weights, and code as soon as possible.
 - [x] **[2025.01.25]** Release the [refGeo](https://huggingface.co/datasets/erenzhou/refGeo) dataset.
 ---
 
