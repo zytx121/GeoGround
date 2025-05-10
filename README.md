@@ -166,7 +166,7 @@ Our approach enhances object-level understanding without compromising the holist
 ```bibtex
 @misc{zhou2024geoground,
       title={GeoGround: A Unified Large Vision-Language Model for Remote Sensing Visual Grounding}, 
-      author={Yue Zhou and Mengcheng Lan and Xiang Li and Yiping Ke and Xue Jiang and Litong Feng and Wayne Zhang},
+      author={Yue Zhou and Mengcheng Lan and Xiang Li and Litong Feng and Yiping Ke and Xue Jiang and Qingyun Li and Xue Yang and Wayne Zhang},
       year={2024},
       eprint={2411.11904},
       archivePrefix={arXiv},
@@ -178,3 +178,5 @@ Our approach enhances object-level understanding without compromising the holist
 ---
 ## 🙏 Acknowledgement
 
+- [LLaVA](https://github.com/haotian-liu/LLaVA/tree/main)
+- [Text4Seg](https://github.com/mc-lan/Text4Seg)
