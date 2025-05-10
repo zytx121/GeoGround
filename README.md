@@ -5,16 +5,18 @@
     <a href='https://zytx121.github.io/' target='_blank'>Yue Zhou</a><sup>1</sup>&emsp;   
     <a href='https://mc-lan.github.io/' target='_blank'>Mengcheng Lan</a><sup>1</sup>&emsp;
     <a href='https://xiangli.ac.cn/' target='_blank'>Xiang Li</a><sup>2</sup>&emsp;
-    <a href='https://keyiping.wixsite.com/index' target='_blank'>Yiping Ke</a><sup>3</sup>&emsp;
-    <a href='https://ee.sjtu.edu.cn/FacultyDetail.aspx?id=53&infoid=66' target='_blank'>Jiang Xue</a><sup>4</sup>&emsp;
-    <a href='https://scholar.google.com.hk/citations?user=PnNAAasAAAAJ&hl=en' target='_blank'>Litong Feng</a><sup>5*</sup>&emsp;
+    <a href='https://scholar.google.com.hk/citations?user=PnNAAasAAAAJ&hl=en' target='_blank'>Litong Feng</a><sup>5</sup>&emsp;
+    <a href='https://keyiping.wixsite.com/index' target='_blank'>Yiping Ke</a><sup>1</sup>&emsp;
+    <a href='https://ee.sjtu.edu.cn/FacultyDetail.aspx?id=53&infoid=66' target='_blank'>Xue Jiang</a><sup>3</sup>&emsp;
+    <a href='https://github.com/Li-Qingyun' target='_blank'>Qingyun Li</a><sup>4</sup>&emsp;
+    <a href='https://yangxue.site/' target='_blank'>Xue Yang</a><sup>3</sup>&emsp;
     <a href='https://www.statfe.com/' target='_blank'>Wayne Zhang</a><sup>5</sup>&emsp;
 </div>
 <div>
-    <sup>1</sup>S-Lab, Nanyang Technological University&emsp; 
-    <sup>2</sup>CS, University of Reading&emsp; 
-    <sup>3</sup>CCDS, Nanyang Technological University&emsp; 
-    <sup>4</sup>SEIEE, Shanghai Jiaotong University&emsp; 
+    <sup>1</sup>Nanyang Technological University&emsp; 
+    <sup>2</sup>University of Reading&emsp; 
+    <sup>3</sup>Shanghai Jiaotong University&emsp; 
+    <sup>4</sup>Harbin Institute of Technology&emsp; 
     <sup>5</sup>SenseTime Research&emsp;
 </div>
 
@@ -22,6 +24,7 @@
 [![Website](https://img.shields.io/badge/Project-Website-87CEEB)]()
 [![Paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](http://arxiv.org/abs/2411.11904)
 [![Dataset](https://img.shields.io/badge/HuggingFace-Dataset-yellow)](https://huggingface.co/datasets/erenzhou/refGeo)
+[![Dataset](https://img.shields.io/badge/HuggingFace-Model-blue)](https://huggingface.co/erenzhou/GeoGround)
 
 
 </div>
@@ -35,7 +38,7 @@
 ## 📢 Latest Updates
 
 
-- [ ] We will release the GeoGround weights, and code as soon as possible.
+- [x] **[2025.05.10]** Release the [Model Weights](https://huggingface.co/erenzhou/GeoGround), it can be run directly with [LLaVA](https://github.com/haotian-liu/LLaVA/tree/main).
 - [x] **[2025.01.25]** Release the [refGeo](https://huggingface.co/datasets/erenzhou/refGeo) dataset.
 ---
 
